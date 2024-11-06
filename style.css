@@ -1,0 +1,37 @@
+.girls img{
+   width: 100px;
+   height: 100px;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+
+
+   border: 1px solid black;
+   border-radius: 10px;
+   background-color: antiquewhite;
+   
+   
+}
+
+.meykap {
+   
+display: flex;
+flex-wrap: wrap;
+    gap: 30px;
+    width: 40%;
+    height: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 230px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: beige;
+}
+
+.mm h4 {
+  font-size: 15px;
+  color:brown;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
